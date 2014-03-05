@@ -1,4 +1,3 @@
-
 Scope	Synapse Audio Software	com.synapseAudioSoftware.Antidote
 //Map	_control_	Polyphony
 //Map	_control_	Master Volume
@@ -40,12 +39,12 @@ Scope	Synapse Audio Software	com.synapseAudioSoftware.Antidote
 //Map	_control_	Filter Envelope Decay
 //Map	_control_	Filter Envelope Sustain
 //Map	_control_	Filter Envelope Release
-//Map	_control_	Mod. Env. elope Attack
-//Map	_control_	Mod. Env. elope Decay
-//Map	_control_	Mod. Env. elope Sustain
-//Map	_control_	Mod. Env. elope Release
-//Map	_control_	Mod. Env. elope Target
-//Map	_control_	Mod. Env. elope Target Amount
+//Map	_control_	Mod Envelope Attack
+//Map	_control_	Mod Envelope Decay
+//Map	_control_	Mod Envelope Sustain
+//Map	_control_	Mod Envelope Release
+//Map	_control_	Mod Envelope Target
+//Map	_control_	Mod Envelope Target Amount
 //Map	_control_	Amp Envelope Attack
 //Map	_control_	Amp Envelope Decay
 //Map	_control_	Amp Envelope Sustain
