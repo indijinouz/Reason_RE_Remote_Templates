@@ -1,4 +1,3 @@
-
 Scope	KORG	jp.co.korg.Polysix
 //Map	_control_	Hold
 //Map	_control_	KEY ASSIGN
@@ -8,14 +7,14 @@ Scope	KORG	jp.co.korg.Polysix
 //Map	_control_	UNISON SPREAD
 //Map	_control_	ANALOG
 //Map	_control_	VCO VIBRATO INT
-//Map	_control_	VCO Octave
+//Map	_control_	VCO OCTAVE
 //Map	_control_	VCO WAVE FORM
 //Map	_control_	VCO PWM ADJUST
 //Map	_control_	VCO PWM SPEED
 //Map	_control_	VCO SUB OSC
-//Map	_control_	VCF Cutoff
-//Map	_control_	VCF Resonance
-//Map	_control_	VCF EG Intensity
+//Map	_control_	VCF CUTOFF
+//Map	_control_	VCF RESONANCE
+//Map	_control_	VCF EG INTENSITY
 //Map	_control_	VCF Kbd Track
 //Map	_control_	VCA MODE
 //Map	_control_	VCA ATTENUATOR
@@ -46,7 +45,7 @@ Scope	KORG	jp.co.korg.Polysix
 //Map	_control_	FX SPREAD
 //Map	_control_	FX SPEED
 //Map	_control_	Pitch Bend Range
-//Map	_control_	Transpose
+//Map	_control_	TRANSPOSE
 //Map	_control_	TUNE
 //Map	_control_	EM1 SOURCE
 //Map	_control_	EM1 VCO PW
