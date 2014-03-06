@@ -1,8 +1,8 @@
 Scope	KORG	jp.co.korg.Polysix
-//Map	_control_	Hold
+//Map	_control_	HOLD
 //Map	_control_	KEY ASSIGN
-//Map	_control_	Unison Voices
-//Map	_control_	Total Voices
+//Map	_control_	UNISION VOICES
+//Map	_control_	TOTAL VOICES
 //Map	_control_	UNISON DETUNE
 //Map	_control_	UNISON SPREAD
 //Map	_control_	ANALOG
@@ -30,9 +30,9 @@ Scope	KORG	jp.co.korg.Polysix
 //Map	_control_	EG DECAY
 //Map	_control_	EG SUSTAIN
 //Map	_control_	EG RELEASE
-//Map	_control_	Pan
-//Map	_control_	Volume
-//Map	_control_	Arpeggio
+//Map	_control_	PAN
+//Map	_control_	VOLUME
+//Map	_control_	ARPEGGIO
 //Map	_control_	ARP KEY SYNC
 //Map	_control_	ARP TEMPO SYNC
 //Map	_control_	ARP BASE NOTE
@@ -44,7 +44,7 @@ Scope	KORG	jp.co.korg.Polysix
 //Map	_control_	FX MODE
 //Map	_control_	FX SPREAD
 //Map	_control_	FX SPEED
-//Map	_control_	Pitch Bend Range
+//Map	_control_	PITCH BEND RANGE
 //Map	_control_	TRANSPOSE
 //Map	_control_	TUNE
 //Map	_control_	EM1 SOURCE
