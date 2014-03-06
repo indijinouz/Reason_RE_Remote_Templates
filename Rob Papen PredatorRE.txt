@@ -1,4 +1,3 @@
-
 Scope	Rob Papen	com.robpapen.PredatorRE
 //Map	_control_	Volume
 //Map	_control_	Pan
@@ -83,8 +82,6 @@ Scope	Rob Papen	com.robpapen.PredatorRE
 //Map	_control_	Amp Sustain
 //Map	_control_	Amp Fade
 //Map	_control_	Amp Release
-//Map	_control_	Envelope 1 Amount
-//Map	_control_	Envelope 2 Amount
 //Map	_control_	Osc 1
 //Map	_control_	Osc 2
 //Map	_control_	Osc 3
@@ -94,4 +91,29 @@ Scope	Rob Papen	com.robpapen.PredatorRE
 //Map	_control_	Filter Distort
 //Map	_control_	Filter Vowel
 //Map	_control_	Filter Smoothing
-
+//Map	_control_	Free Envelope 1
+//Map	_control_	Free Envelope 2
+//Map	_control_	Envelope 1 Amount
+//Map	_control_	Envelope 2 Amount
+//Map	_control_	Free Envelope 1 Sync
+//Map	_control_	Free Envelope 2 Sync
+//Map	_control_	Envelope 1 Attack in MS
+//Map	_control_	Envelope 1 Decay in MS
+//Map	_control_	Envelope 1 Unsynced Sustain
+//Map	_control_	Envelope 1 Fade in MS
+//Map	_control_	Envelope 1 Release in MS
+//Map	_control_	Envelope 1 Attack in QB
+//Map	_control_	Envelope 1 Decay in QB
+//Map	_control_	Envelope 1 Synced Sustain
+//Map	_control_	Envelope 1 Fade in QB
+//Map	_control_	Envelope 1 Release in QB
+//Map	_control_	Envelope 2 Attack in MS
+//Map	_control_	Envelope 2 Decay in MS
+//Map	_control_	Envelope 2 Unsynced Sustain
+//Map	_control_	Envelope 2 Fade in MS
+//Map	_control_	Envelope 2 Release in MS
+//Map	_control_	Envelope 2 Attack in QB
+//Map	_control_	Envelope 2 Decay in QB
+//Map	_control_	Envelope 2 Synced Sustain
+//Map	_control_	Envelope 2 Fade in QB
+//Map	_control_	Envelope 2 Release in QB
