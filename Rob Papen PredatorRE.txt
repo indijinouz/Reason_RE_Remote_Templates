@@ -1,12 +1,16 @@
 Scope	Rob Papen	com.robpapen.PredatorRE
+
 //Map	_control_	Volume
 //Map	_control_	Pan
+
+//Map	_control_	Free LFO 1 Destination
+//Map	_control_	Free LFO 2 Destination
 //Map	_control_	LFO 1 Amount
 //Map	_control_	LFO 2 Amount
-//Map	_control_	LFO 1 Speed in MS
-//Map	_control_	LFO 1 Speed in QB
-//Map	_control_	LFO 2 Speed in MS
-//Map	_control_	LFO 2 Speed in QB
+//Map	_control_	Free LFO 1 Speed in MS
+//Map	_control_	Free LFO 1 Speed in QB
+//Map	_control_	Free LFO 2 Speed in MS
+//Map	_control_	Free LFO 2 Speed in QB
 //Map	_control_	Osc 2 Sync
 //Map	_control_	Osc 2 Free Running
 //Map	_control_	Osc 2 Tracking
